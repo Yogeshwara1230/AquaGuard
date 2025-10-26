@@ -1,0 +1,21 @@
+{
+    "name": "AquaGuard Home",
+    "short_name": "AquaGuard",
+    "description": "Real-time water leak monitoring dashboard.",
+    "start_url": "./aquaguard_dashboard.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1D4ED8",
+    "icons": [
+        {
+            "src": "https://placehold.co/192x192/1D4ED8/ffffff?text=AG",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://placehold.co/512x512/1D4ED8/ffffff?text=AG",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
